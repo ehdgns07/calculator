@@ -5,9 +5,9 @@
 #include <stdio.h>
  
 int add(int, int);
-int sub(int, int);
-int div(int, int);
-int multi(int, int);
+int subtitute(int, int);
+int divine(int, int);
+int multiple(int, int);
  
 int main(int argc, char* argv[])
 {
@@ -33,7 +33,7 @@ int main(int argc, char* argv[])
 			break;
 	}
 	
-	printf("result is %d.\n", result);
+	printf("결과값은 %d.\n", result);
 	
 	return 0;
 }
