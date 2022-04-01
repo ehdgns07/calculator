@@ -33,7 +33,7 @@ int main(int argc, char* argv[])
 			result = div(number1, number2);
 			break;
 	}
-	
+	//1
 	printf("결과값은 %d.\n", result);
 	
 	return 0;
