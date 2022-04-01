@@ -34,7 +34,7 @@ int main(int argc, char* argv[])
 			break;
 	}
 	
-	printf("결과값은 이거에요 %d.\n", result);
+	printf("결과값은 %d.\n", result);
 	
 	return 0;
 }
